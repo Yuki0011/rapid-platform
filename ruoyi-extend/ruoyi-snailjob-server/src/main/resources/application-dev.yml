@@ -4,7 +4,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://8.140.222.15:5432/rapid
     username: postgres
-    password: 123456
+    password: Xt@0417
     hikari:
       connection-timeout: 30000
       validation-timeout: 5000
